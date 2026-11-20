@@ -211,6 +211,6 @@ Released under the [MIT License](LICENSE).
 
 **Muhammad** — Junior Software Developer, Damascus, Syria
 
-- GitHub: [@Muhammad-sadaka](https://github.com/Muhammad-sadaka/Bank-Console-Project)
+- GitHub: [@Muhammad-sadaka](https://github.com/Muhammad-sadaka)
 
 If this project helped you learn, please give it a ⭐
